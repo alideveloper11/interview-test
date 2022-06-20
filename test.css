@@ -1,0 +1,127 @@
+.main{
+
+background-color: #ffffff;
+height: 100%;
+width: 100%;
+background-image: url('japan2.png');
+background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 65% 60%;
+  
+}
+
+.rounddiv{
+
+    background-color: #f0ddbf;
+      
+    height: 30px;
+    width: 80%;
+    margin-left: 100px;
+    border-radius: 27px;
+  
+    box-Shadow:1px 1px 7px  rgba(0, 0, 0, 0.253); 
+
+}
+
+.div1{
+
+   
+}
+
+.sub1{
+
+background-color: #f39900;
+height: 40px;
+width:165px;
+margin-top: 10px;
+margin-left: 20px;
+}
+.sub2{
+
+    background-color: #f39900;
+    height: 40px;
+    width:165px;
+    margin-left: 250px;
+    margin-top: -55px;
+    }
+
+    .sub3{
+
+        background-color: #f39900;
+        height: 40px;
+        width:80px;
+        margin-left: 500px;
+        margin-top: -55px;
+        }
+
+
+        .sub4{
+
+            background-color: #f39900;
+            height: 40px;
+            width:80px;
+            margin-left: 650px;
+            margin-top: -55px;
+
+        }
+        .sub5{
+
+            background-color: #f39900;
+            height: 40px;
+            width:80px;
+            margin-left: 1150px;
+            margin-top: -55px;
+        }
+        .sub6{
+
+            background-color: #f39900;
+            height: 40px;
+            width:165px; 
+        margin-top: 170px;
+        margin-left: 20px;
+        }
+
+        .sub7{
+            background-color: #f39900;
+            height: 40px;
+            width:165px; 
+            margin-left: 230px;
+            margin-top: -55px;
+        }
+        .sub8{
+            background-color: #f39900;
+            height: 40px;
+            width:250px; 
+           margin-left: 1050px;
+            margin-top: -50px;
+        }
+        .sub9{
+            background-color: #f39900;
+            height: 40px;
+            width:250px; 
+           margin-left: 1050px;
+         margin-top: 110px;
+        }
+        .sub10{
+            background-color: #f39900;
+            height: 40px;
+            width:165px; 
+            margin-left: 800px;
+            margin-top: -70px;
+        }
+
+        button{
+            border-radius: 4px;
+            border: none;  
+            border: 1px solid black;
+        }
+
+        p{
+
+            text-align: center;
+            color: white;
+            font-size: 20px;
+            
+            
+        }
